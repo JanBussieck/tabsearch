@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "tabsearch",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Super simple, awesome, intuitive way to switch tabs of which you should have many",
+    "description": "The description of the application"
+  }
+}
